@@ -1,12 +1,13 @@
-# foc4steppermotor
+### foc4steppermotor
 
 Target create a board for developing FOC steppermotor controler
 
-Done:
+###Done:
     1.extern board power feed
     2.FOC board MCU running
 
-ToDo:
+###ToDo:
+
     1.FOC MCU flash
     2.FOC driven steppermotor
     3.rs485 
